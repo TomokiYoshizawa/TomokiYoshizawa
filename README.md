@@ -7,9 +7,11 @@ I amd originally from Japan and moved to Vancouver at 18 years old for challengi
 After graduation from the university, I worked as talent recruiter for 5 years in technical industry and healthcare industry. 
 After 5 years, I switched to software development from recruting industry. I made this decision because I would like to solve puzzles and create something from scrach. I am excited to combine my communication skills from recruiting expereince 
 
+test
+
 Current Work and Learning:
 
-Resume
+Resume (https://drive.google.com/file/d/1SxLPZkBeHk06Zinlt0C8DGdhS0s4fF-x/view?usp=sharing)
 View my CV
 
 
