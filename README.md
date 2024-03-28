@@ -11,7 +11,9 @@ test
 
 Current Work and Learning:
 
-Resume (https://drive.google.com/file/d/1SxLPZkBeHk06Zinlt0C8DGdhS0s4fF-x/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1SxLPZkBeHk06Zinlt0C8DGdhS0s4fF-x/view?usp=sharing">
+Resume 
+</a>
 View my CV
 
 
