@@ -11,7 +11,6 @@ After 5 years, I switched to software development from recruting industry. I mad
 Current Work and Learning:
 
 Resume & Portfolio
-
 <p>
 <a href="https://drive.google.com/file/d/1SxLPZkBeHk06Zinlt0C8DGdhS0s4fF-x/view?usp=sharing">
 View my CV
@@ -23,7 +22,8 @@ View my CV
 View my Portfolio
 </a>
 </p>
-
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
+<img src="https://img.shields.io/badge/-Html-019733.svg?logo=html&style=flat">
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomokiYoshizawa&layout=compact&show_icons=true&theme=dark" />
