@@ -11,10 +11,14 @@ test
 
 Current Work and Learning:
 
+Resume & Portfolio
 <a href="https://drive.google.com/file/d/1SxLPZkBeHk06Zinlt0C8DGdhS0s4fF-x/view?usp=sharing">
-Resume 
-</a>
 View my CV
+</a>
+
+<a href="https://tomokiyoshizawa.netlify.app/">
+View my Portfolio
+</a>
 
 
 <p align="left"> 
