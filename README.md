@@ -3,14 +3,13 @@
 A Full-Stack Developer in Vancouver, BC (Canada)
 
 About Me
-I amd originally from Japan and moved to Vancouver at 18 years old for challenging to be professional hockey player. 
-After graduation from the university, I worked as talent recruiter for 5 years in technical industry and healthcare industry. 
-After 5 years, I switched to software development from recruting industry. I made this decision because I would like to solve puzzles and create something from scrach. I am excited to combine my communication skills from recruiting expereince 
+Hello! I'm originally from Japan but moved to Vancouver at 18, chasing my dream of becoming a professional hockey player. After graduating from university, I ventured into the world of talent recruitment, where I spent five years in both the tech and healthcare sectors. It was a fulfilling journey, but I felt a pull towards something more creative and hands-on.
+
+That's when I decided to make a leap into software development. The allure of solving complex problems and building things from the ground up was too strong to resist. I'm particularly excited to see how I can blend the communication skills I honed in recruitment with my technical abilities in development. It's an adventure I'm truly looking forward to
 
 
-Current Work and Learning:
-
-Resume & Portfolio
+**Resume & Portfolio:**
+---
 <p>
 <a href="https://drive.google.com/file/d/1SxLPZkBeHk06Zinlt0C8DGdhS0s4fF-x/view?usp=sharing">
 View my CV
@@ -22,8 +21,13 @@ View my CV
 View my Portfolio
 </a>
 </p>
-<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
-<img src="https://img.shields.io/badge/-Html-019733.svg?logo=html&style=flat">
+
+**Languages and Tools:**
+---
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,js,ts,react,redux,nodejs,mongodb,mysql,postman,netlify,heroku,git,wordpress,vscode&theme=light&perline=6)](https://skillicons.dev)
+
+**Projects**
+---
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomokiYoshizawa&layout=compact&show_icons=true&theme=dark" />
