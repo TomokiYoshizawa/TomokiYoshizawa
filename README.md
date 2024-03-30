@@ -32,11 +32,4 @@ View my Portfolio
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,js,ts,react,redux,nodejs,mongodb,mysql,postman,netlify,heroku,git,wordpress,vscode&theme=light&perline=6)](https://skillicons.dev)
 
-**Projects**
----
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TomokiYoshizawa&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 
